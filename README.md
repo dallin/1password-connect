@@ -1,0 +1,2 @@
+# 1Password Connect PHP Library
+Just my attempt at creating a PHP client library for the new [1Password Connect REST API](https://support.1password.com/connect-api-reference/), because one did not yet exist.
