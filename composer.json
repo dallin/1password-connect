@@ -1,0 +1,25 @@
+{
+    "name": "dallin/1password-connect",
+    "description": "1Password Connect PHP Library",
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.3",
+        "php": ">=5.3"
+    },
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Dallin Hitchcock",
+            "email": "dallin@fastmail.com",
+            "homepage": "https://github.com/dallin",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "1Password\\": "src",
+            "1Password\\Tests\\": "tests"
+        }
+    }
+}
